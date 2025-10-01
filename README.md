@@ -33,15 +33,15 @@ Sublime Text requires manual installation of the syntax and theme files.
    ```
 
 3. **Copy Syntax Files**:
-   - Copy `Zendesk Explore.tmLanguage` from `Zendesk Explore.tmbundle/Syntaxes/` to the new directory
-   - Copy `Zendesk Explore.tmTheme` from `Zendesk Explore.tmbundle/Themes/` to the new directory
+   - Copy `zendeskexplore.tmLanguage` from `ZendeskExplore.tmbundle/Syntaxes/` to the new directory
+   - Copy `zendeskexplore.tmTheme` from `ZendeskExplore.tmbundle/Themes/` to the new directory
 
    ```
    Packages/
    └── User/
        ├── ...
-       ├── Zendesk Explore.tmLanguage
-       └── Zendesk Explore.tmTheme
+       ├── zendeskexplore.tmLanguage
+       └── zendeskexplore.tmTheme
    ```
 
 4. **Restart Sublime Text** (optional)
@@ -64,7 +64,7 @@ JetBrains IDEs have built-in support for TextMate bundles through the TextMate B
 2. **Import the Bundle**:
    - Navigate to `Settinga` → `Editor` → `TextMate Bundles`
    - Click the `+` (Add) button
-   - Browse to and select the `Zendesk Explore.tmbundle` folder
+   - Browse to and select the `ZendeskExplore.tmbundle` folder
    - Click `OK` to apply changes
 
 3. **Verify Installation**:
