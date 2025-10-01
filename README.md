@@ -5,6 +5,8 @@ A TextMate bundle that provides syntax highlighting for Zendesk Explore formulas
 - `.zendesk`
 - `.explore`
 
+![](https://i.postimg.cc/sfhbvHPC/image.png)
+
 ## Features
 
 - **Syntax Support**: Highlights Zendesk Explore formula elements
